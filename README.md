@@ -4,7 +4,7 @@
 Digital Voting System with Transparent Ballot Counting
 
 ## Project Description
-This project implements a decentralized digital voting system on the Ethereum blockchain using Solidity. The system provides a transparent, tamper-proof platform for conducting elections or polls with fully auditable results. Every vote cast is permanently recorded on the blockchain, ensuring transparency throughout the entire process while maintaining voter privacy.
+This project implements a decentralized digital voting system on the Ethereum blockchain using Solidity. The system provides a transparenter-proof platform for conducting elections or polls with fully auditable results. Every vote cast is permanently recorded on the blockchain, ensuring transparency throughout the entire process while maintaining voter privacy.
 
 The smart contract manages the full lifecycle of a voting event - from registration of eligible voters to the final counting of ballots. All vote counts are publicly accessible and automatically tallied, eliminating the need for manual counting and reducing the risk of manipulation.
 
